@@ -70,7 +70,7 @@ function bitBar (){
     }
   }
     
-  multiplicationTables(5)
+  multiplicationTables(15)
 
 //Ejercicio 3 // Se debe imprimir en el navegador un programa que haga lo siguiente en un contador de 1 al numero dado por el usuario 
 //Números que sean múltiplos de 5 deberán imprimir  amo_, 
