@@ -63,9 +63,8 @@ function bitBar (){
   //El hijo de la prima de su madrina necesita un programa que le ayude con las tablas de multiplicar, este debe recibir un número y decirle cuales son las tablas de multiplicar de dicho numero
 
   function multiplicationTables (num){
-
+    console.log(`Welcome to your Multiplication Calculator \n The Table of ${num} is`)
     for(i=1;i<=10;i++){
-      console.log('Welcome to your Multiplication Calculator')
       oper=num*i;
       console.log(`${num} X ${i} = ${oper} `)
     }
